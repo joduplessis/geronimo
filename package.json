@@ -1,0 +1,21 @@
+{
+  "name": "Geronimo",
+  "version": "1.0.0",
+  "description": "Messenger framework with audio translation",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^0.11.0",
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "cloudconvert": "^1.1.2",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "moment": "^2.19.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "tedious": "^2.1.5"
+  }
+}
